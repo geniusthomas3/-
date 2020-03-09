@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578739701 source:c:\users\honsa\desktop\정올준비\unitsoft\bracket2\main.cpp
+	<stdio.h>
+	<stack>
+	<string.h>
+

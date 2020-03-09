@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563000287 source:c:\users\honsa\desktop\정올준비\robot\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+

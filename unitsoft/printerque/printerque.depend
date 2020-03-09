@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578723560 source:c:\users\honsa\desktop\정올준비\unitsoft\printerque\main.cpp
+	<stdio.h>
+	<utility>
+	<queue>
+

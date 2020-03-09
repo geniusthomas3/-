@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578717241 source:c:\users\honsa\desktop\정올준비\unitsoft\후위표기식2\main.cpp
+	<stdio.h>
+	<stack>
+	<strings.h>
+

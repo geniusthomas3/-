@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1550905977 source:c:\users\honsa\desktop\정올준비\path\main.cpp
+	<stdio.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+

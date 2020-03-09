@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1581748639 source:c:\users\honsa\desktop\정올준비\unitsoft\skline\main.cpp
+	<stdio.h>
+	<stack>
+	<vector>
+	<utility>
+	<algorithm>
+
