@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586569730 source:c:\users\honsa\desktop\practice\unitsoft\goodarray\main.cpp
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+
