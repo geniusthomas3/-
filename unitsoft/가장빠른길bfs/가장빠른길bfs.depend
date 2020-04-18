@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587187008 source:c:\users\honsa\desktop\practice\unitsoft\가장빠른길bfs\main.cpp
+	<stdio.h>
+	<queue>
+	<utility>
+
