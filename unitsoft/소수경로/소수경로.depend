@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1593241460 source:c:\users\honsa\desktop\practice\unitsoft\소수경로\main.cpp
+	<queue>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+	<queue>
+	<stdlib.h>
+	<stdio.h>
+	<queue>
+
