@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593825653 source:c:\users\honsa\desktop\practice\unitsoft\virus\main.cpp
+	<stdio.h>
+	<queue>
+	<vector>
+
