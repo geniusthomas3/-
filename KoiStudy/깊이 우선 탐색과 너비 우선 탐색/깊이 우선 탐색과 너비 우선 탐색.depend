@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1593833671 source:c:\users\honsa\desktop\practice\koistudy\깊이 우선 탐색과 너비 우선 탐색\main.cpp
+	<stdio.h>
+	<queue>
+	<vector>
+	<algorithm>
+
