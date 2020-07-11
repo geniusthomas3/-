@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int cnt,n,arr[30][30],SIZE[30];
+int cnt,n,arr[30][30],SIZE[900];
 
 bool safe(int,int);
 void color(int,int,int);
@@ -11,10 +11,6 @@ void locate();
 
 void input();
 void output();
-
-int cmp(int a,int b){
-    return a>b;
-}
 
 int main()
 {
@@ -58,7 +54,7 @@ void locate()
             if(arr[i][j]) SIZE[arr[i][j]-2]++;
         }
     }
-    sort(SIZE,SIZE+cnt,cmp);
+    sort(SIZE,SIZE+cnt);
 }
 
 void input(){
